@@ -8,7 +8,7 @@ function App() {
       <div className='body'>
         <div className="text">
           <p>
-            Dark Sky Destinations is an app for stargazing enthusiasts and astronomy lovers. The app offers 5 main features:
+            Dark Sky Destinations is an Android application developed using Kotlin and Jetpack Compose for stargazing enthusiasts and astronomy lovers. The app offers 5 main features:
           </p>
           <ol>
             <li>
